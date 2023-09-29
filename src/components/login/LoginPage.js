@@ -100,7 +100,7 @@ class LoginPage extends Component {
                   this.usernameRef = input;
                 }}
                 error={!!errors.username}
-                name="user-name"
+                name="username"
                 value={data.username}
                 fullWidth
                 label="Username"
