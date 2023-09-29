@@ -2,10 +2,6 @@
 
 A simple point of sale application built using react &amp; node.js.
 
-## Note
-
-This is still work in progress.
-
 ## To run the current code in development mode
 
 1. Run `yarn` to install all the dependencies in the root and also in the `api` folder.
