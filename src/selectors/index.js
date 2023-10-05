@@ -4,7 +4,7 @@ const getProductTypeSelector = () =>
   createSelector(
     state => state.productType,
     productType => {
-      if (productType.list) {
+      if (productType.list) (
         return productType;
       }
       return {
